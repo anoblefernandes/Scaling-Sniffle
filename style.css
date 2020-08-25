@@ -1,0 +1,16 @@
+.row {
+    width: 95vw;
+    padding: 2.5vw;
+}
+.col-12 {
+    width: 95%;
+    padding: 2.5%;
+}
+#blue {
+    width: 100%;
+    background-color: rgb(34, 34, 136);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
